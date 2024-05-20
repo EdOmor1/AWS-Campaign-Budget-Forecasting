@@ -34,5 +34,3 @@ This project implements a forecasting tool to predict future campaign budget nee
 1. Upload historical campaign data to the designated S3 bucket.
 2. The Lambda function `forecast_model.py` processes the data and generates budget forecasts.
 
-## License
-This project is licensed under the MIT License.
